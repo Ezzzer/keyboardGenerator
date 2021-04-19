@@ -1,0 +1,1 @@
+D:\Projects\Jdk15\bin\java.exe  -Dfile.encoding=UTF-8 -classpath D:\Projects\keyboardGenerator\target\classes;C:\Users\ezer\.m2\repository\net\java\dev\jna\jna-platform\5.6.0\jna-platform-5.6.0.jar;C:\Users\ezer\.m2\repository\net\java\dev\jna\jna\5.6.0\jna-5.6.0.jar com.ez.Main
